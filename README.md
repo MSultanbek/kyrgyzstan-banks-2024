@@ -78,7 +78,7 @@ kyrgyzstan-banks-2024/
 ## ▶️ How to reproduce
 
 1. Clone: `git clone https://github.com/MSultanbek/kyrgyzstan-banks-2024.git`
-2. Open `dashboard/kyrgyzstan-banks-2024.pbix` in Power BI Desktop
+2. Open `Dashboards/kyrgyzstan-banks-2024.pbix` in Power BI Desktop
 3. Data source is `data/processed/banks_2024.xlsx` — click Refresh to rebuild
 4. Metric calculations documented in `docs/methodology.md`
 
