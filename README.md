@@ -4,7 +4,7 @@
 > commercial banks built from raw IFRS annual report PDFs to a 
 > published Power BI dashboard.
 
-![Profitability Quadrant](dashboard/screenshots/02-profitability.png)
+![Profitability Quadrant](Dashboard/Screenshots/Profitability.png)
 
 ## 🎯 Project goal
 
@@ -57,7 +57,6 @@ Download `dashboard/kyrgyzstan-banks-2024-long.pbix` and open in
 Power BI Desktop to explore the interactive version.
 
 ### Dashboard pages
-- **Overview** — sector summary with KPI cards
 - **Profitability** — ROA vs ROE quadrant chart with bubble size = assets
 - **Growth** — year-over-year growth across assets, loans, and profit
 - **Stability** — capital strength and cost efficiency comparison
