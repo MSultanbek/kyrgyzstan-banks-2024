@@ -67,6 +67,7 @@ Power BI Desktop to explore the interactive version.
 Power BI Desktop · DAX · Power Query (M) · Excel
 
 ## 📁 Repository structure
+```text
 kyrgyzstan-banks-2024/
 ├── dashboard/
 │   ├── kyrgyzstan-banks-2024-long.pbix
@@ -80,6 +81,7 @@ kyrgyzstan-banks-2024/
 │   ├── methodology.md
 │   └── data-dictionary.md
 └── information/                # Original project brief
+```
 
 ## ▶️ How to reproduce
 
